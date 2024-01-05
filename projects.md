@@ -8,6 +8,8 @@ Float - The music player of solitude
 
 Trkr - The rss reader of anything
 Arch - Save the memories on the internet
+Fltr - Opensource image methods list
+MaterialSvg - svg editor but material design
 
 Path - The ultimate OI roadmap
 
@@ -20,7 +22,7 @@ Vygjs - A rewrite to document apis
 Game_10.cpp
 Math_Tri_lim.cpp
 
-# Explore
+# Love
 Snapseed
 Geogebra
 Smartisan_Notes
@@ -48,15 +50,4 @@ wenyan-lang
 waifu2x
 royaleapi brawltimeninja
 liferestart
-
-
-# Fonts
-Fira Sans
-Fira Code
-Verdana
-Helvetica
-Dejavu
-Source Han Sans
-Source Han Serif
-Fangzhengkaiti
 

@@ -6,13 +6,13 @@ Ubuntu Config
 - Auto hide the dock 
 - Panel mode off
 - Icon size max
-- Dont show trash
+- trash off
 - Remove some favs on the dock
 - Select bg
 
 ## Displays
-- Nightlight
-- dont show desktop icons `sudo apt install gnome-shell-extension-prefs`
+- Nightlight `18 to 7`
+- desktop icons off `sudo apt install gnome-shell-extension-prefs`
 
 ## Keyboard
 - close_window Ctrl Q
@@ -38,6 +38,9 @@ Action=*
 ResultActive=yes
 ```
 
+## Sound
+- system sound off
+
 ## Power
 - automatic screen brightness off
 
@@ -50,16 +53,20 @@ ResultActive=yes
 # Gedit
 - autosave
 - tab use spaces: 2spaces
-- dont show line nums
-- dont display status bar
+- line nums off
+- status bar off
+
+# Image Viewer
+- smooth off
 
 # Chromium
-- Dont use sys title bar
-- Add Bookmarks
+- sys title bar off
+- Add bookmarks: OI,git,recreation..
+- Add folders in all bookmarks: Blogs,Todo
 - Exs: adguard newtab justblack lulutranslate
 
 # Code
-- dont show welcome page on startup
+- welcome page off
 - auto save
 - hide activity & tab & status & menu bar
 - workspace trust `/home`
@@ -98,7 +105,6 @@ sudo apt install libgsettings-qt1
 # ThunderBird
 - Config mail devvhy@zohomail.cn
 - junk 
-s
 
 # v2raya
 - dependence `sudo apt install v2ray`
