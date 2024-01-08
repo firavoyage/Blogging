@@ -47,6 +47,9 @@ ResultActive=yes
 ## Printer
 - search for driver(`linux64 ij debian`) `https://in.canon/en/support/search`
 
+## Privacy:Tmpfile&Trash
+- auto delete files after 30days
+
 # Files
 - add templates
 
@@ -61,9 +64,10 @@ ResultActive=yes
 
 # Chromium
 - sys title bar off
-- Add bookmarks: OI,git,recreation..
-- Add folders in all bookmarks: Blogs,Todo
+- Add bookmarks: OI,Github,recreation..
+- Add folders in all bookmarks: Blogs,Tools,Todo..
 - Exs: adguard newtab justblack lulutranslate
+- Exs allow in incognito
 
 # Code
 - welcome page off
@@ -88,10 +92,15 @@ close_file ctrl w
 open_containing_folder ctrl shift o
 ```
 
+# Git
+- config `git config user.email _email`
+- save pws `git config --global credential.helper store`
+
 # Sogou input
 - Fcitx
 - Fcitx autostart `sudo cp /usr/share/applications/fcitx.desktop /etc/xdg/autostart/`
 - Fcitx globalcfg:appearance `dont show input method hint`
+- Fcitx clipboard `ctrl ;`
 - Delete ibus `sudo apt purge ibus`
 - Install dependence 
 ```
@@ -112,14 +121,15 @@ sudo apt install libgsettings-qt1
 - proxy only gfwlist
 
 # Wine
-
+- `winecfg`
+- open with `wine windows program loader`
+- delete a program `/home/fira/.local/share/applications/`
 
 # Fonts
 - From gh/firavoyage/fonts
 - install
 
 # Softwares
-- git
 - VLC
 - OBS
 - Eudic
