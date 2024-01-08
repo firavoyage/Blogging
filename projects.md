@@ -7,8 +7,8 @@ Pepper - The combination of livestreams
 Float - The music player of solitude
 
 Trkr - The rss reader of anything
-Arch - Save the memories on the internet
-Fltr - Opensource image methods list
+Fltr - The image methods list
+Timeline - Home for your memories & discoveries
 MaterialSvg - svg editor but material design
 
 Path - The ultimate OI roadmap

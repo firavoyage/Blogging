@@ -76,6 +76,7 @@ ResultActive=yes
 - welcome page off
 - auto save
 - hide activity & tab & status & menu bar
+- hide minimap
 - workspace trust `/home`
 - sudo apt install g++
 - Exs: atom-style code-runner idea-shortcuts cmake
@@ -89,6 +90,9 @@ ResultActive=yes
 - font: "Fira Code"
 - shortcuts
 ```
+new_file ctrl n
+rename_file alt enter
+open_side_bar ctrl b
 run_code ctrl r
 stop_running ctrl e
 close_file ctrl w
