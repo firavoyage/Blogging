@@ -50,6 +50,9 @@ ResultActive=yes
 ## Privacy:Tmpfile&Trash
 - auto delete files after 30days
 
+# Software&updates
+- never check for upds
+
 # Files
 - add templates
 
